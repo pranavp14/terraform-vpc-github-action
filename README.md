@@ -29,4 +29,8 @@ Before you begin, ensure you have the following prerequisites:
 * Terraform installed on your local machine.
 * Access to a AWS cloud provider account and necessary API credentials.
 
+## Screenshot of github action
+![image](https://github.com/pranavp14/terraform-vpc-github-action/assets/86883246/70b66266-f373-44f4-a80a-8c74d6f362ab)
+
+
 
